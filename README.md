@@ -1,3 +1,5 @@
+<img width="879" height="915" alt="Screenshot from 2025-11-28 23-32-03" src="https://github.com/user-attachments/assets/a951f615-baca-4e43-9b8e-b76e6e35a80b" />
+[Screencast from 2025-11-29 23-02-26.webm](https://github.com/user-attachments/assets/8ff0d13a-cd56-4931-8c45-902699a80346)
 # indeed-bug-reports
 Bug report documenting an issue in the Indeed job application form where the Continue button becomes disabled after switching the sponsorship question from “Yes” to “No.”
 
